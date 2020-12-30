@@ -1,0 +1,28 @@
+{
+  "name": "unofficial_deako_sdk",
+  "version": "0.0.1",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/timtong1982/unofficial_deako_sdk.git"
+  },
+  "author": "acatdev.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/timtong1982/unofficial_deako_sdk/issues"
+  },
+  "homepage": "https://github.com/timtong1982/unofficial_deako_sdk#readme",
+  "dependencies": {
+    "mdns": "2.7.2"
+  },
+  "devDependencies": {
+    "@types/mdns": "0.0.33",
+    "eslint": "7.16.0",
+    "prettier": "2.2.1",
+    "typescript": "4.1.3"
+  }
+}
