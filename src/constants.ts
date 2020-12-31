@@ -1,7 +1,8 @@
 
 class Constants {
-    public static serviceType = '_tcp'
-    public static serviceName = 'local-integration'
+    static serviceType = '_telnet'
+    static serviceName = 'local-integration'
+    static discoverTimeout = 10000
 }
 
 export {
