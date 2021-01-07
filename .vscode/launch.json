@@ -51,7 +51,7 @@
             "type": "node",
             "request": "launch",
             "name": "Launch ts file",
-            "program": "${workspaceFolder}/src/utils/discover.ts",
+            "program": "${workspaceFolder}/src/utils/deviceControl.ts",
             "preLaunchTask": "tsc: build - tsconfig.json",
             "outFiles": [
                 "${workspaceFolder}/dist/**/*.js"

@@ -2,7 +2,7 @@
 class Constants {
     static serviceType = '_telnet'
     static serviceName = 'local-integration'
-    static discoverTimeout = 10000
+    static discoverTimeout = 30000
 }
 
 export {
